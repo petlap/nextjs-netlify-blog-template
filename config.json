@@ -2,11 +2,7 @@
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_title": "Unlogo",
   "site_description": "Marketing Blog",
-  "site_keywords": [
-    "Unlogo",
-    "Marketing",
-    "Hosting"
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@unlogo",
   "github_account": "unlogo"
