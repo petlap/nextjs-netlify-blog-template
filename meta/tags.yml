@@ -1,1 +1,13 @@
-tags: []
+tags:
+  - slug: ai
+    name: AI
+  - name: Cloud
+    slug: cloud
+  - slug: development
+    name: Development
+  - slug: domains
+    name: Domains
+  - slug: hosting
+    name: Hosting
+  - slug: tools
+    name: Tools
