@@ -15,8 +15,8 @@ export default function Index() {
           <h1>
             Unlogo<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A tech blog.</h2>
+          <span className="handle">Marketing Blog</span>
+          <h2><a href="/posts">Read our latest posts</a>.</h2>
           <SocialList />
         </div>
       </div>
