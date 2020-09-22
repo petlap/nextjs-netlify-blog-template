@@ -2,7 +2,6 @@ import Layout from "../components/Layout";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
-import { SocialList } from "../components/SocialList";
 
 export default function Index() {
   return (
@@ -17,7 +16,6 @@ export default function Index() {
           </h1>
           <span className="handle">Marketing Blog</span>
           <h2><a href="/posts">Read our latest posts</a>.</h2>
-          <SocialList />
         </div>
       </div>
       <style jsx>{`
